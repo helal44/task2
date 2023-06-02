@@ -1,0 +1,17 @@
+
+
+.elm{
+    position: relative;
+    margin-top: 20px;
+}
+
+p{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+}
+.row{
+    position: relative;
+    font-size: larger;
+}
